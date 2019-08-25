@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: da57c15efbb53724899d17c818c89554
+timeCreated: 1460236052
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zeroLife_0
+    21300002: zeroLife_1
+    21300004: zeroLife_2
+    21300006: zeroLife_3
+    21300008: zeroLife_4
+    21300010: zeroLife_5
+    21300012: zeroLife_6
+    21300014: zeroLife_7
+    21300016: zeroLife_8
+    21300018: zeroLife_9
+    21300020: zeroLife_10
+    21300022: zeroLife_11
+    21300024: zeroLife_12
+    21300026: zeroLife_13
+    21300028: zeroLife_14
+    21300030: zeroLife_15
+    21300032: zeroLife_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zeroLife_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: zeroLife_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 12
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
